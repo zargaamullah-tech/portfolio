@@ -54,7 +54,7 @@ export const personal = {
 
   // The supporting line under the headline
   heroIntro:
-    "6 years. 4 regions. $2M+ revenue. 42 certifications. One sales professional who builds pipelines, closes boardroom deals, and scales teams across EMEA, APAC, and North America.",
+    "6 years. 4 regions. $1M+ revenue. 42 certifications. One sales professional who builds pipelines, closes boardroom deals, and scales teams across EMEA, APAC, and North America.",
 
   // Right-to-work badge shown in hero / contact
   rightToWork:
@@ -62,7 +62,7 @@ export const personal = {
 
   // The stat strip under the hero
   stats: [
-    { value: "$2M+", label: "Revenue Generated" },
+    { value: "$1M+", label: "Revenue Generated" },
     { value: "6+", label: "Years Experience" },
     { value: "4", label: "Global Regions" },
     { value: "42", label: "Certifications" },
