@@ -335,6 +335,12 @@ export const projects = [
 // -----------------------------------------------------------------------------
 export const education = [
   {
+    degree: "Masters in Business Analytics",
+    institution:
+      "University of Oulu, Finland",
+    period: "Aug 2026 – Aug 2028",
+  },
+  {
     degree: "Bachelor of Science in Computer Science",
     institution:
       "National University of Computer and Emerging Sciences (FAST-NUCES), Pakistan",
@@ -386,11 +392,10 @@ export const certifications = [
 export const languages = [
   { name: "English", level: "Fluent / Professional" },
   { name: "Urdu", level: "Native" },
-  { name: "Hindi", level: "Conversational" },
-  { name: "Arabic", level: "Basic" },
-  { name: "Finnish", level: "Basic" },
-  { name: "Swedish", level: "Basic" },
-  { name: "Mandarin Chinese", level: "Learning" },
+  { name: "Arabic", level: "Conversational" },
+  { name: "Finnish", level: "Conversational" },
+  { name: "Swedish", level: "Conversational" },
+  { name: "Mandarin Chinese", level: "Basic" },
 ];
 
 // -----------------------------------------------------------------------------
